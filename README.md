@@ -111,15 +111,10 @@ The model analyzes medical attributes to classify whether a patient is at risk o
 Heart-Disease-Prediction
 │
 ├── dataset
-│   └── heart.csv
+│   └── data.csv
 │
-├── notebook
-│   └── heart_disease_analysis.ipynb
-│
-├── model
-│   └── logistic_regression_model.pkl
-│
-├── prediction_system.py
+├── Jupiter notebook
+│   └── Prototype_heart.ipynb
 │
 └── README.md
 ```
